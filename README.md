@@ -1,9 +1,7 @@
-# ZAB Project
+# ZABA Project
 
-An open-source project for web deployment and community contribution.
-
-## About
-This project is publicly available and intended for open-source development and collaboration.
+ZAB is the short form of ZABA.
+This project is an open-source web project for deployment and community contribution.
 
 ## Purpose
 The goal of this project is to build and share a useful web project that can be improved over time by the community.
