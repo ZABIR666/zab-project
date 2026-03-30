@@ -12,4 +12,4 @@ The goal of this project is to build and share a useful web project that can be 
 
 ## License
 
-This project is licensed under the MIT License. This site is powered by Netlify.
+This project is licensed under the MIT License. This site is powered by [Netlify](https://www.netlify.com/).
