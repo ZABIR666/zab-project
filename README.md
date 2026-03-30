@@ -1,0 +1,12 @@
+# ZAB Project
+
+An open-source project for web deployment and community contribution.
+
+## About
+This project is publicly available and intended for open-source development and collaboration.
+
+## Purpose
+The goal of this project is to build and share a useful web project that can be improved over time by the community.
+
+## License
+This project is licensed under the MIT License.
